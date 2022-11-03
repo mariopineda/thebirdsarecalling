@@ -4,26 +4,14 @@ title: About
 permalink: /about/
 ---
 
-[Reverie](https://github.com/amitmerchant1990/reverie) is a Jekyll theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for [my blog](https://www.amitmerchant.com).
+![Excerpt of John Muir's ](https://thebirdsarecallingandimustgo.files.wordpress.com/2019/01/img_1536.jpg?w=840)
 
-This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
+_Excerpt of John Muir's "The mountains are calling" letter._
 
-## Features
+Welcome to _The Birds are Calling_. This blog is an outlet for my lifelong interest in natural history. I have a particular interest in birds, photography and writing, but I do not consider myself a birder, a photographer or a writer. Rather, I see myself as a naturalist using photography and story-telling to document nature and natural history, in particular birds and bird behavior. Why birds? As it turns out, when you are looking for birds you tend to see everything else that is out there along the way.
 
-- Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
-- Fully responsive and mobile optimized base theme
-- Sass/Coffeescript support using Jekyll 2.0
-- Free hosting on your GitHub Pages user site
-- All the SEO goodies comes in-built
-- Markdown blogging
-- Syntax highlighting using Pygments
-    - [Dracula syntax theme](https://draculatheme.com/) included
-- Disqus commenting
-- Google Analytics integration
-- Fuzzy search across blog posts
-- Pagination of posts works out-of-the-box.
-- Categorize posts out-of-the box
-- RSS Feed
-- In-built sitemap
+Gotta go, the birds are calling, so in the spirit of John Muir, _I must go now and I will work on while I can, studying incessantly._
 
-Learn more about it [here](https://github.com/amitmerchant1990/reverie) on how to get started.
+![](images/nalcahue-wetlands.jpg)
+
+_Studying nature in the Nalcahue wetlands (Chile). Yes, we do need to get a birding scope._
