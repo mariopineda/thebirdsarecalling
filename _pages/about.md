@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![Excerpt of John Muir's ](https://thebirdsarecallingandimustgo.files.wordpress.com/2019/01/img_1536.jpg?w=840)
+![Excerpt of John Muir's ](the-mountains-are-calling-letter.jpg?w=840)
 
 _Excerpt of John Muir's "The mountains are calling" letter._
 
@@ -12,6 +12,6 @@ Welcome to _The Birds are Calling_. This blog is an outlet for my lifelong inter
 
 Gotta go, the birds are calling, so in the spirit of John Muir, _I must go now and I will work on while I can, studying incessantly._
 
-![](images/nalcahue-wetlands.jpg)
+![](nalcahue-wetlands.jpg)
 
 _Studying nature in the Nalcahue wetlands (Chile). Yes, we do need to get a birding scope._
