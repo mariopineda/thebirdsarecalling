@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![Excerpt of John Muir's ](images/the-mountains-are-calling-letter.jpg?w=840)
+![Excerpt of John Muir's ](../images/the-mountains-are-calling-letter.jpg?w=840)
 
 _Excerpt of John Muir's "The mountains are calling" letter._
 
